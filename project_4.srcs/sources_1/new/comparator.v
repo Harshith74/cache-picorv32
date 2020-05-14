@@ -34,13 +34,11 @@ endmodule
 
 
 module multiplecomp #(parameter noways = 4,taglength = 4)
-(input [taglength*noways-1:0] input1,
- input [taglength-1:0]inp1,inp2,inp3,inp4,
+(input [taglength-1:0]inp1,inp2,inp3,inp4,
  input[noways-1:0] validarray,
  input [taglength-1:0]tag,
  output hit,
- output reg[noways-1:0] sel);
- wire [noways-1:0] hitnoways;
+ output [noways-1:0] hitnoways);
 comparatorTag comp1(inp1,tag,validarray[0],hitnoways[0]);
 comparatorTag comp2(inp2,tag,validarray[1],hitnoways[1]);
 comparatorTag comp3(inp3,tag,validarray[2],hitnoways[2]);
