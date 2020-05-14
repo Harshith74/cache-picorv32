@@ -574,3 +574,7 @@ selectCodeEditor("my_cache.v", 311, 317); // ch (w, cr)
 selectCodeEditor("my_cache.v", 28, 332); // ch (w, cr)
 // TclEventType: DG_GRAPH_STALE
 // TclEventType: FILE_SET_CHANGE
+// HMemoryUtils.trashcanNow. Engine heap size: 930 MB. GUI used memory: 55 MB. Current time: 5/14/20, 5:22:11 PM IST
+// HMemoryUtils.trashcanNow. Engine heap size: 930 MB. GUI used memory: 55 MB. Current time: 5/14/20, 5:52:12 PM IST
+// HMemoryUtils.trashcanNow. Engine heap size: 930 MB. GUI used memory: 54 MB. Current time: 5/14/20, 6:22:12 PM IST
+// HMemoryUtils.trashcanNow. Engine heap size: 930 MB. GUI used memory: 54 MB. Current time: 5/14/20, 6:52:12 PM IST
