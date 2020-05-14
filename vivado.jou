@@ -18,3 +18,9 @@ set_property SOURCE_SET sources_1 [get_filesets sim_1]
 close [ open C:/Users/harshith/Documents/GitHub/cache-picorv32/project_4.srcs/sim_1/new/mycache_tb.v w ]
 add_files -fileset sim_1 C:/Users/harshith/Documents/GitHub/cache-picorv32/project_4.srcs/sim_1/new/mycache_tb.v
 update_compile_order -fileset sim_1
+close [ open C:/Users/harshith/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/mycache_withmem.v w ]
+add_files C:/Users/harshith/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/mycache_withmem.v
+update_compile_order -fileset sources_1
+add_files -norecurse {C:/Users/harshith/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/comparator.v C:/Users/harshith/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/muxnto1.v}
+update_compile_order -fileset sources_1
+add_files -norecurse {C:/Users/harshith/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/comparator.v C:/Users/harshith/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/muxnto1.v}
