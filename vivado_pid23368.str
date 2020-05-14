@@ -136,3 +136,30 @@ collapseTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sou
 // WARNING: HEventQueue.dispatchEvent() is taking  3334 ms.
 // WARNING: HSwingWorker (Refresh Filesets Swing Worker) is taking 5160 ms. Increasing delay to 15480 ms.
 // WARNING: HSwingWorker (Refresh Filesets Swing Worker) is taking 153 ms. Decreasing delay to 2153 ms.
+// WARNING: HSwingWorker (Refresh Filesets Swing Worker) is taking 1504 ms. Increasing delay to 4512 ms.
+// TclEventType: DG_GRAPH_STALE
+// WARNING: HEventQueue.dispatchEvent() is taking  1095 ms.
+// TclEventType: DG_GRAPH_STALE
+// WARNING: HTimer (FileMgr Design Graph Update Timer) is taking 1752ms to process. Increasing delay to 4000 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1752 ms.
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// WARNING: HEventQueue.dispatchEvent() is taking  1478 ms.
+// WARNING: HSwingWorker (Refresh Filesets Swing Worker) is taking 8420 ms. Increasing delay to 25260 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1262 ms.
+// WARNING: HSwingWorker (Refresh Filesets Swing Worker) is taking 12 ms. Decreasing delay to 2012 ms.
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// WARNING: HEventQueue.dispatchEvent() is taking  1289 ms.
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// HMemoryUtils.trashcanNow. Engine heap size: 801 MB. GUI used memory: 51 MB. Current time: 5/14/20, 5:45:45 PM IST
+// WARNING: HSwingWorker (Refresh Filesets Swing Worker) is taking 3488 ms. Increasing delay to 10464 ms.
+// WARNING: HSwingWorker (Refresh Filesets Swing Worker) is taking 10 ms. Decreasing delay to 2010 ms.
+// WARNING: HSwingWorker (Refresh Filesets Swing Worker) is taking 1020 ms. Increasing delay to 3060 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 801 MB. GUI used memory: 52 MB. Current time: 5/14/20, 6:15:45 PM IST
+// HMemoryUtils.trashcanNow. Engine heap size: 801 MB. GUI used memory: 50 MB. Current time: 5/14/20, 6:45:45 PM IST
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE

@@ -104,3 +104,262 @@ Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
 // Tcl Message: INFO: [Project 1-313] Project file moved from 'C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32' since last save. 
 // Tcl Message: Scanning sources... Finished scanning sources 
 // Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.2/data/ip'. 
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 74 MB (+18559kb) [00:01:57]
+// [Engine Memory]: 704 MB (+93667kb) [00:01:57]
+// [GUI Memory]: 91 MB (+14454kb) [00:01:59]
+// [GUI Memory]: 110 MB (+15115kb) [00:02:00]
+// WARNING: HEventQueue.dispatchEvent() is taking  6412 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1062 ms.
+// Project name: project_4; location: C:/Users/harshith/Documents/GitHub/cache-picorv32; part: xc7z020clg484-1
+// WARNING: updateGUI() is taking  1931 ms.
+// WARNING: updateGUI() is taking  2113 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  2644 ms.
+// Tcl Message: open_project: Time (s): cpu = 00:00:36 ; elapsed = 00:01:09 . Memory (MB): peak = 831.363 ; gain = 212.742 
+// WARNING: HTimer (FileMgr Design Graph Update Timer) is taking 871ms to process. Increasing delay to 3000 ms.
+dismissDialog("Open Project"); // bB (cr)
+// WARNING: HSwingWorker (Refresh Filesets Swing Worker) is taking 2247 ms. Increasing delay to 6741 ms.
+// a (cr): Critical Messages: addNotify
+// WARNING: HTimer (FileMgr Design Graph Update Timer) is taking 1340ms to process. Increasing delay to 4000 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1340 ms.
+// Elapsed time: 11 seconds
+selectButton(PAResourceAtoD.CmdMsgDialog_OK, "OK"); // f (a)
+dismissDialog("Critical Messages"); // a (cr)
+// Tcl Message: update_compile_order -fileset sources_1 
+// PAPropertyPanels.initPanels (mycore.v) elapsed time: 0.4s
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore (mycore.v)]", 3, true); // B (F, cr) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore (mycore.v)]", 3, true, false, false, false, false, true); // B (F, cr) - Double Click - Node
+// WARNING: HEventQueue.dispatchEvent() is taking  1571 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 727 MB. GUI used memory: 60 MB. Current time: 5/14/20, 5:25:14 PM IST
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore (mycore.v), uut : xil_defaultlib.picorv32]", 4, false); // B (F, cr)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore (mycore.v), uut : xil_defaultlib.picorv32]", 4, false, false, false, false, false, true); // B (F, cr) - Double Click
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore (my_cache.v)]", 5, false); // B (F, cr)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore (my_cache.v)]", 5, false, false, false, false, false, true); // B (F, cr) - Double Click
+// Elapsed time: 19 seconds
+selectCodeEditor("my_cache.v", 373, 349); // ch (w, cr)
+selectCodeEditor("my_cache.v", 317, 361); // ch (w, cr)
+selectCodeEditor("my_cache.v", 160, 327); // ch (w, cr)
+selectCodeEditor("my_cache.v", 160, 327, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("my_cache.v", 158, 350); // ch (w, cr)
+selectCodeEditor("my_cache.v", 158, 350); // ch (w, cr)
+selectCodeEditor("my_cache.v", 31, 334); // ch (w, cr)
+selectCodeEditor("my_cache.v", 82, 356); // ch (w, cr)
+selectCodeEditor("my_cache.v", 154, 300); // ch (w, cr)
+// [GUI Memory]: 118 MB (+1987kb) [00:03:34]
+// Elapsed time: 24 seconds
+closeView(PAResourceOtoP.PAViews_CODE, "Code"); // B
+// [Engine Memory]: 740 MB (+871kb) [00:03:40]
+selectButton(PAResourceCommand.PACommandNames_ADD_SOURCES, "Sources_add_sources"); // E (f, cr)
+// Run Command: PAResourceCommand.PACommandNames_ADD_SOURCES
+// c (cr): Add Sources: addNotify
+selectButton("NEXT", "Next >"); // JButton (j, c)
+selectButton(PAResourceQtoS.SrcChooserPanel_ADD_HDL_AND_NETLIST_FILES_TO_YOUR_PROJECT, "Add Files"); // a (E, c)
+setFileChooser("C:/Users/harshith/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/my_cache.v");
+selectButton("FINISH", "Finish"); // JButton (j, c)
+// 'h' command handler elapsed time: 13 seconds
+dismissDialog("Add Sources"); // c (cr)
+// Tcl Message: add_files -norecurse C:/Users/harshith/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/my_cache.v 
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore (my_cache.v)]", 5, false); // B (F, cr)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore (my_cache.v)]", 5, false, false, false, false, false, true); // B (F, cr) - Double Click
+// WARNING: HTimer (ActiveMsgMonitor Process Messages Timer) is taking 238ms to process. Increasing delay to 2000 ms.
+// Elapsed time: 249 seconds
+selectCodeEditor("my_cache.v", 262, 161); // ch (w, cr)
+typeControlKey((HResource) null, "my_cache.v", 'v'); // ch (w, cr)
+// WARNING: HEventQueue.dispatchEvent() is taking  1389 ms.
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 13 seconds
+selectButton(PAResourceCommand.PACommandNames_ADD_SOURCES, "Sources_add_sources"); // E (f, cr)
+selectButton(PAResourceCommand.PACommandNames_ADD_SOURCES, "Sources_add_sources"); // E (f, cr)
+// Run Command: PAResourceCommand.PACommandNames_ADD_SOURCES
+// c (cr): Add Sources: addNotify
+selectRadioButton(PAResourceAtoD.AddSrcWizard_SPECIFY_SIMULATION_SPECIFIC_HDL_FILES, "Add or create simulation sources"); // a (o, c)
+selectButton("NEXT", "Next >"); // JButton (j, c)
+selectButton(PAResourceQtoS.SrcChooserPanel_ADD_HDL_AND_NETLIST_FILES_TO_YOUR_PROJECT, "Add Files"); // a (E, c)
+dismissFileChooser();
+// HOptionPane Error: 'Invalid file 'C:/Users/harshith/Documents/GitHub/cache-picorv32/project_ 4.srcs/sources_1/new/mycache_tb'. File does not exist. (Invalid File)'
+// Elapsed time: 15 seconds
+dismissFileChooser();
+selectButton(PAResourceQtoS.SrcChooserPanel_CREATE_FILE, "Create File"); // a (E, c)
+// F (c): Create Source File: addNotify
+setText(PAResourceAtoD.CreateSrcFileDialog_FILE_NAME, "mycache_tb"); // ac (Q, F)
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a (F)
+// Tcl Command: 'file mkdir C:/Users/harshith/Documents/GitHub/cache-picorv32/project_4.srcs/sim_1/new'
+dismissDialog("Create Source File"); // F (c)
+// Tcl Message: file mkdir C:/Users/harshith/Documents/GitHub/cache-picorv32/project_4.srcs/sim_1/new 
+selectButton("FINISH", "Finish"); // JButton (j, c)
+// 'h' command handler elapsed time: 31 seconds
+dismissDialog("Add Sources"); // c (cr)
+// bB (cr):  Add Simulation Sources  : addNotify
+// Tcl Message: set_property SOURCE_SET sources_1 [get_filesets sim_1] 
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Tcl Message: close [ open C:/Users/harshith/Documents/GitHub/cache-picorv32/project_4.srcs/sim_1/new/mycache_tb.v w ] 
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Tcl Message: add_files -fileset sim_1 C:/Users/harshith/Documents/GitHub/cache-picorv32/project_4.srcs/sim_1/new/mycache_tb.v 
+// I (cr): Define Module: addNotify
+dismissDialog("Add Simulation Sources"); // bB (cr)
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a (I)
+// TclEventType: FILE_SET_CHANGE
+// WARNING: HEventQueue.dispatchEvent() is taking  1159 ms.
+selectButton("OptionPane.button", "Yes"); // JButton (A, H)
+// TclEventType: FILE_SET_CHANGE
+dismissDialog("Define Module"); // I (cr)
+// WARNING: HEventQueue.dispatchEvent() is taking  1392 ms.
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Tcl Message: update_compile_order -fileset sim_1 
+// Elapsed time: 17 seconds
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v)]", 5, false); // B (F, cr)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v)]", 5, false, false, false, false, false, true); // B (F, cr) - Double Click
+selectCodeEditor("mycore_tb.v", 262, 117); // ch (w, cr)
+selectCodeEditor("mycore_tb.v", 140, 280); // ch (w, cr)
+// WARNING: HEventQueue.dispatchEvent() is taking  1155 ms.
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 2); // i (h, cr)
+selectCodeEditor("my_cache.v", 165, 93); // ch (w, cr)
+typeControlKey((HResource) null, "my_cache.v", 'c'); // ch (w, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "mycore_tb.v", 3); // i (h, cr)
+selectCodeEditor("mycore_tb.v", 56, 236); // ch (w, cr)
+typeControlKey((HResource) null, "mycore_tb.v", 'v'); // ch (w, cr)
+selectCodeEditor("mycore_tb.v", 52, 344); // ch (w, cr)
+// Elapsed time: 17 seconds
+selectCodeEditor("mycore_tb.v", 91, 311); // ch (w, cr)
+selectCodeEditor("mycore_tb.v", 68, 288); // ch (w, cr)
+selectCodeEditor("mycore_tb.v", 90, 279); // ch (w, cr)
+typeControlKey((HResource) null, "mycore_tb.v", 'v'); // ch (w, cr)
+// Elapsed time: 22 seconds
+selectCodeEditor("mycore_tb.v", 1, 225); // ch (w, cr)
+typeControlKey((HResource) null, "mycore_tb.v", 'c'); // ch (w, cr)
+selectCodeEditor("mycore_tb.v", 112, 326); // ch (w, cr)
+typeControlKey((HResource) null, "mycore_tb.v", 'v'); // ch (w, cr)
+// Elapsed time: 23 seconds
+selectCodeEditor("mycore_tb.v", 83, 293); // ch (w, cr)
+selectCodeEditor("mycore_tb.v", 121, 287); // ch (w, cr)
+selectCodeEditor("mycore_tb.v", 121, 287, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("mycore_tb.v", 130, 287); // ch (w, cr)
+selectCodeEditor("mycore_tb.v", 130, 287, false, false, false, false, true); // ch (w, cr) - Double Click
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "mycore.v", 1); // i (h, cr)
+// Elapsed time: 10 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "mycore_tb.v", 3); // i (h, cr)
+selectCodeEditor("mycore_tb.v", 153, 268); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 10 seconds
+selectCodeEditor("mycore_tb.v", 233, 323); // ch (w, cr)
+// WARNING: HEventQueue.dispatchEvent() is taking  1325 ms.
+selectCodeEditor("mycore_tb.v", 152, 308); // ch (w, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 2); // i (h, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "mycore_tb.v", 3); // i (h, cr)
+// Elapsed time: 105 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "mycore.v", 1); // i (h, cr)
+// Elapsed time: 10 seconds
+selectCodeEditor("mycore.v", 79, 61); // ch (w, cr)
+// Elapsed time: 25 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "mycore_tb.v", 3); // i (h, cr)
+selectCodeEditor("mycore_tb.v", 126, 178); // ch (w, cr)
+selectCodeEditor("mycore_tb.v", 175, 244); // ch (w, cr)
+// Elapsed time: 10 seconds
+selectCodeEditor("mycore_tb.v", 68, 244); // ch (w, cr)
+selectCodeEditor("mycore_tb.v", 130, 286); // ch (w, cr)
+// Elapsed time: 47 seconds
+selectCodeEditor("mycore_tb.v", 168, 332); // ch (w, cr)
+selectCodeEditor("mycore_tb.v", 147, 310); // ch (w, cr)
+selectCodeEditor("mycore_tb.v", 230, 290); // ch (w, cr)
+selectCodeEditor("mycore_tb.v", 166, 306); // ch (w, cr)
+// Elapsed time: 37 seconds
+selectCodeEditor("mycore_tb.v", 102, 242); // ch (w, cr)
+selectCodeEditor("mycore_tb.v", 120, 142); // ch (w, cr)
+selectCodeEditor("mycore_tb.v", 93, 263); // ch (w, cr)
+// Elapsed time: 36 seconds
+selectCodeEditor("mycore_tb.v", 133, 308); // ch (w, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 2); // i (h, cr)
+selectCodeEditor("my_cache.v", 150, 202); // ch (w, cr)
+selectCodeEditor("my_cache.v", 220, 225); // ch (w, cr)
+// Elapsed time: 11 seconds
+selectCodeEditor("my_cache.v", 250, 200); // ch (w, cr)
+selectCodeEditor("my_cache.v", 247, 201); // ch (w, cr)
+selectCodeEditor("my_cache.v", 469, 203); // ch (w, cr)
+selectCodeEditor("my_cache.v", 480, 195); // ch (w, cr)
+selectCodeEditor("my_cache.v", 468, 216); // ch (w, cr)
+selectCodeEditor("my_cache.v", 471, 179); // ch (w, cr)
+selectCodeEditor("my_cache.v", 498, 192); // ch (w, cr)
+selectCodeEditor("my_cache.v", 281, 230); // ch (w, cr)
+// Elapsed time: 10 seconds
+selectCodeEditor("my_cache.v", 158, 96); // ch (w, cr)
+// Elapsed time: 18 seconds
+selectCodeEditor("my_cache.v", 109, 303); // ch (w, cr)
+selectCodeEditor("my_cache.v", 65, 268); // ch (w, cr)
+selectCodeEditor("my_cache.v", 40, 285); // ch (w, cr)
+selectCodeEditor("my_cache.v", 40, 285, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("my_cache.v", 40, 285); // ch (w, cr)
+selectCodeEditor("my_cache.v", 25, 277); // ch (w, cr)
+selectCodeEditor("my_cache.v", 91, 301); // ch (w, cr)
+selectCodeEditor("my_cache.v", 133, 301); // ch (w, cr)
+selectCodeEditor("my_cache.v", 125, 303); // ch (w, cr)
+selectCodeEditor("my_cache.v", 34, 287); // ch (w, cr)
+selectCodeEditor("my_cache.v", 34, 287, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("my_cache.v", 34, 287); // ch (w, cr)
+selectCodeEditor("my_cache.v", 34, 287); // ch (w, cr)
+selectCodeEditor("my_cache.v", 143, 286); // ch (w, cr)
+selectCodeEditor("my_cache.v", 143, 286, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("my_cache.v", 143, 286); // ch (w, cr)
+selectCodeEditor("my_cache.v", 89, 268); // ch (w, cr)
+selectCodeEditor("my_cache.v", 767, 293); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 10 seconds
+selectCodeEditor("my_cache.v", 725, 303); // ch (w, cr)
+// Elapsed time: 34 seconds
+selectCodeEditor("my_cache.v", 104, 305); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// WARNING: HEventQueue.dispatchEvent() is taking  1009 ms.
+// Elapsed time: 38 seconds
+selectCodeEditor("my_cache.v", 1, 327); // ch (w, cr)
+selectCodeEditor("my_cache.v", 287, 329); // ch (w, cr)
+selectCodeEditor("my_cache.v", 198, 328); // ch (w, cr)
+selectCodeEditor("my_cache.v", 500, 227); // ch (w, cr)
+// Elapsed time: 121 seconds
+selectCodeEditor("my_cache.v", 557, 267); // ch (w, cr)
+selectCodeEditor("my_cache.v", 732, 274); // ch (w, cr)
+selectCodeEditor("my_cache.v", 752, 261); // ch (w, cr)
+selectCodeEditor("my_cache.v", 752, 261, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("my_cache.v", 757, 256); // ch (w, cr)
+selectCodeEditor("my_cache.v", 747, 267); // ch (w, cr)
+selectCodeEditor("my_cache.v", 771, 301); // ch (w, cr)
+selectCodeEditor("my_cache.v", 793, 308); // ch (w, cr)
+selectCodeEditor("my_cache.v", 311, 323); // ch (w, cr)
+// Elapsed time: 34 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "Project Summary", 0); // i (h, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "mycore.v", 1); // i (h, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 2); // i (h, cr)
+// Elapsed time: 90 seconds
+selectCodeEditor("my_cache.v", 99, 297); // ch (w, cr)
+selectCodeEditor("my_cache.v", 85, 305); // ch (w, cr)
+// Elapsed time: 14 seconds
+selectCodeEditor("my_cache.v", 681, 248); // ch (w, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "mycore_tb.v", 3); // i (h, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 2); // i (h, cr)
+// Elapsed time: 185 seconds
+selectCodeEditor("my_cache.v", 280, 138); // ch (w, cr)
+selectCodeEditor("my_cache.v", 116, 308); // ch (w, cr)
+selectCodeEditor("my_cache.v", 85, 310); // ch (w, cr)
+// HMemoryUtils.trashcanNow. Engine heap size: 744 MB. GUI used memory: 63 MB. Current time: 5/14/20, 5:55:18 PM IST
+// Elapsed time: 321 seconds
+selectCodeEditor("my_cache.v", 201, 287); // ch (w, cr)
+selectCodeEditor("my_cache.v", 209, 300); // ch (w, cr)
+selectCodeEditor("my_cache.v", 209, 300, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("my_cache.v", 248, 307); // ch (w, cr)
+selectCodeEditor("my_cache.v", 231, 311); // ch (w, cr)
+selectCodeEditor("my_cache.v", 229, 304); // ch (w, cr)
+selectCodeEditor("my_cache.v", 229, 304, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("my_cache.v", 229, 304); // ch (w, cr)
+selectCodeEditor("my_cache.v", 229, 304); // ch (w, cr)
+selectCodeEditor("my_cache.v", 229, 304); // ch (w, cr)
+selectCodeEditor("my_cache.v", 228, 303); // ch (w, cr)
+// HMemoryUtils.trashcanNow. Engine heap size: 744 MB. GUI used memory: 58 MB. Current time: 5/14/20, 6:25:18 PM IST
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// WARNING: HEventQueue.dispatchEvent() is taking  1273 ms.

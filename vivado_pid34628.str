@@ -128,3 +128,24 @@ dismissDialog("Open Project"); // bB (cr)
 // [GUI Memory]: 113 MB (+749kb) [00:20:09]
 // HMemoryUtils.trashcanNow. Engine heap size: 803 MB. GUI used memory: 58 MB. Current time: 5/14/20, 5:15:41 PM IST
 // WARNING: HEventQueue.dispatchEvent() is taking  3391 ms.
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// WARNING: HEventQueue.dispatchEvent() is taking  1328 ms.
+// WARNING: HTimer (FileMgr Design Graph Update Timer) is taking 1144ms to process. Increasing delay to 4000 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1145 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1219 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1184 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1306 ms.
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// HMemoryUtils.trashcanNow. Engine heap size: 803 MB. GUI used memory: 51 MB. Current time: 5/14/20, 5:45:41 PM IST
+// HMemoryUtils.trashcanNow. Engine heap size: 803 MB. GUI used memory: 51 MB. Current time: 5/14/20, 6:15:41 PM IST
+// WARNING: HTimer (StateMonitor Timer) is taking 1257ms to process. Increasing delay to 4000 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1257 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 803 MB. GUI used memory: 50 MB. Current time: 5/14/20, 6:45:42 PM IST
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
