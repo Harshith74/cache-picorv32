@@ -28,12 +28,14 @@ module mycore_tb;
       reg[3:0] wstrb;
       reg[31:0] address;
       wire[31:0] data;
+      reg valid_l1;
       
       mycache cache1(
       .clk(clk),
       .wstrb(wstrb),
       .address(address),
-      .data(data));
+      .data(data),
+      .valid_l1(valid_l1));
       
       always
         #5
@@ -41,9 +43,12 @@ module mycore_tb;
       initial begin
         clk = 0;
         wstrb = 4'b0000;
+        address = 0;
+        valid_l1 = 1;
       end
+      
       always
-      address = 0;
+      address = address + 4;
       
       
       

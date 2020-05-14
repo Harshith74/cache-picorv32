@@ -23,11 +23,13 @@ module multiplecomp #(parameter noways = 4,taglength = 4)
  output hit,
  output reg[noways-1:0] sel);
  wire [noways-1:0] hitnoways;
+ reg valid_mem_temp;
 comparatorTag comp1(inp1,tag,validarray[0],validmem,hitnoways[0]);
 comparatorTag comp2(inp2,tag,validarray[1],validmem,hitnoways[1]);
 comparatorTag comp3(inp3,tag,validarray[2],validmem,hitnoways[2]);
 comparatorTag comp4(inp4,tag,validarray[3],validmem,hitnoways[3]);
 assign hit = hitnoways[0] || hitnoways[1] || hitnoways[2] || hitnoways[3];
+
 
 //always@(hitnoways)
 //    case(hitnoways)

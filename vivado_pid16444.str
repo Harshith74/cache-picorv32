@@ -337,3 +337,925 @@ typeControlKey((HResource) null, "my_cache.v", 'v'); // ch (w, cr)
 typeControlKey((HResource) null, "my_cache.v", 'v'); // ch (w, cr)
 // TclEventType: DG_GRAPH_STALE
 // TclEventType: FILE_SET_CHANGE
+// Elapsed time: 323 seconds
+selectCodeEditor("my_cache.v", 89, 6); // ch (w, cr)
+selectCodeEditor("my_cache.v", 73, 28); // ch (w, cr)
+selectCodeEditor("my_cache.v", 44, 23); // ch (w, cr)
+selectCodeEditor("my_cache.v", 114, 40); // ch (w, cr)
+selectCodeEditor("my_cache.v", 114, 40, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("my_cache.v", 112, 56); // ch (w, cr)
+selectCodeEditor("my_cache.v", 112, 56, false, false, false, false, true); // ch (w, cr) - Double Click
+// Elapsed time: 26 seconds
+selectCodeEditor("my_cache.v", 123, 32); // ch (w, cr)
+selectCodeEditor("my_cache.v", 123, 32, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("my_cache.v", 110, 41); // ch (w, cr)
+selectCodeEditor("my_cache.v", 110, 41, false, false, false, false, true); // ch (w, cr) - Double Click
+// Elapsed time: 11 seconds
+selectCodeEditor("my_cache.v", 160, 97); // ch (w, cr)
+selectCodeEditor("my_cache.v", 160, 97, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("my_cache.v", 160, 97); // ch (w, cr)
+// Elapsed time: 32 seconds
+selectCodeEditor("my_cache.v", 257, 163); // ch (w, cr)
+selectCodeEditor("my_cache.v", 257, 179); // ch (w, cr)
+selectCodeEditor("my_cache.v", 253, 200); // ch (w, cr)
+selectCodeEditor("my_cache.v", 254, 214); // ch (w, cr)
+selectCodeEditor("my_cache.v", 257, 197); // ch (w, cr)
+selectCodeEditor("my_cache.v", 257, 176); // ch (w, cr)
+selectCodeEditor("my_cache.v", 257, 163); // ch (w, cr)
+selectCodeEditor("my_cache.v", 266, 161); // ch (w, cr)
+selectCodeEditor("my_cache.v", 85, 169); // ch (w, cr)
+selectCodeEditor("my_cache.v", 85, 169, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("my_cache.v", 102, 163); // ch (w, cr)
+selectCodeEditor("my_cache.v", 102, 163, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("my_cache.v", 102, 163); // ch (w, cr)
+selectCodeEditor("my_cache.v", 102, 163); // ch (w, cr)
+// Elapsed time: 15 seconds
+selectCodeEditor("my_cache.v", 241, 165); // ch (w, cr)
+selectCodeEditor("my_cache.v", 241, 179); // ch (w, cr)
+selectCodeEditor("my_cache.v", 243, 195); // ch (w, cr)
+selectCodeEditor("my_cache.v", 223, 145); // ch (w, cr)
+// Elapsed time: 67 seconds
+selectCodeEditor("my_cache.v", 217, 143); // ch (w, cr)
+selectCodeEditor("my_cache.v", 217, 143, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("my_cache.v", 247, 144); // ch (w, cr)
+selectCodeEditor("my_cache.v", 247, 144, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("my_cache.v", 251, 144); // ch (w, cr)
+selectCodeEditor("my_cache.v", 293, 148); // ch (w, cr)
+selectCodeEditor("my_cache.v", 293, 148, false, false, false, false, true); // ch (w, cr) - Double Click
+// Elapsed time: 11 seconds
+selectCodeEditor("my_cache.v", 220, 158); // ch (w, cr)
+selectCodeEditor("my_cache.v", 293, 211); // ch (w, cr)
+selectCodeEditor("my_cache.v", 175, 230); // ch (w, cr)
+selectCodeEditor("my_cache.v", 164, 248); // ch (w, cr)
+// Elapsed time: 26 seconds
+selectCodeEditor("my_cache.v", 141, 249); // ch (w, cr)
+selectCodeEditor("my_cache.v", 141, 249, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("my_cache.v", 141, 249); // ch (w, cr)
+selectCodeEditor("my_cache.v", 141, 249, false, false, false, false, true); // ch (w, cr) - Double Click
+// Elapsed time: 108 seconds
+selectCodeEditor("my_cache.v", 171, 160); // ch (w, cr)
+selectCodeEditor("my_cache.v", 32, 166); // ch (w, cr)
+selectCodeEditor("my_cache.v", 172, 158); // ch (w, cr)
+selectCodeEditor("my_cache.v", 183, 163); // ch (w, cr)
+selectCodeEditor("my_cache.v", 266, 162); // ch (w, cr)
+selectCodeEditor("my_cache.v", 333, 201); // ch (w, cr)
+// Elapsed time: 12 seconds
+selectCodeEditor("my_cache.v", 210, 282); // ch (w, cr)
+selectCodeEditor("my_cache.v", 274, 283); // ch (w, cr)
+selectCodeEditor("my_cache.v", 274, 283, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("my_cache.v", 1213, 141); // ch (w, cr)
+// Elapsed time: 34 seconds
+selectCodeEditor("my_cache.v", 347, 299); // ch (w, cr)
+selectCodeEditor("my_cache.v", 347, 299, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("my_cache.v", 347, 299); // ch (w, cr)
+selectCodeEditor("my_cache.v", 347, 299); // ch (w, cr)
+selectCodeEditor("my_cache.v", 347, 299, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("my_cache.v", 343, 321); // ch (w, cr)
+selectCodeEditor("my_cache.v", 343, 321, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("my_cache.v", 350, 337); // ch (w, cr)
+selectCodeEditor("my_cache.v", 350, 337, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("my_cache.v", 350, 351); // ch (w, cr)
+selectCodeEditor("my_cache.v", 350, 351, false, false, false, false, true); // ch (w, cr) - Double Click
+// Elapsed time: 14 seconds
+selectCodeEditor("my_cache.v", 171, 386); // ch (w, cr)
+selectCodeEditor("my_cache.v", 322, 381); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 46 seconds
+selectCodeEditor("my_cache.v", 234, 382); // ch (w, cr)
+// Elapsed time: 21 seconds
+selectCodeEditor("my_cache.v", 342, 164); // ch (w, cr)
+selectCodeEditor("my_cache.v", 342, 164, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("my_cache.v", 341, 179); // ch (w, cr)
+selectCodeEditor("my_cache.v", 341, 179, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("my_cache.v", 273, 281); // ch (w, cr)
+selectCodeEditor("my_cache.v", 96, 245); // ch (w, cr)
+selectCodeEditor("my_cache.v", 96, 245, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("my_cache.v", 104, 246); // ch (w, cr)
+selectCodeEditor("my_cache.v", 231, 383); // ch (w, cr)
+// Elapsed time: 10 seconds
+selectCodeEditor("my_cache.v", 460, 398); // ch (w, cr)
+selectCodeEditor("my_cache.v", 463, 417); // ch (w, cr)
+// Elapsed time: 29 seconds
+selectCodeEditor("my_cache.v", 358, 421); // ch (w, cr)
+selectCodeEditor("my_cache.v", 347, 434); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 66 seconds
+selectCodeEditor("my_cache.v", 92, 108); // ch (w, cr)
+selectCodeEditor("my_cache.v", 92, 108, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("my_cache.v", 120, 113); // ch (w, cr)
+// Elapsed time: 13 seconds
+selectCodeEditor("my_cache.v", 48, 482); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 34 seconds
+selectCodeEditor("my_cache.v", 153, 468); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 19 seconds
+selectCodeEditor("my_cache.v", 260, 475); // ch (w, cr)
+// Elapsed time: 15 seconds
+selectCodeEditor("my_cache.v", 32, 466); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+selectCodeEditor("my_cache.v", 372, 476); // ch (w, cr)
+// HMemoryUtils.trashcanNow. Engine heap size: 930 MB. GUI used memory: 53 MB. Current time: 5/14/20, 4:22:11 PM IST
+// Elapsed time: 1804 seconds
+unMinimizeFrame(PAResourceOtoP.PAViews_SOURCES, "Sources"); // aA
+collapseTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Non-module Files]", 2); // B (F, cr)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Non-module Files]", 2); // B (F, cr)
+collapseTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Non-module Files]", 2); // B (F, cr)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Non-module Files]", 2); // B (F, cr)
+collapseTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Non-module Files]", 2); // B (F, cr)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore (mycore.v)]", 3); // B (F, cr)
+collapseTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore (mycore.v)]", 3); // B (F, cr)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore (mycore.v)]", 3, true, false, false, false, true, false); // B (F, cr) - Popup Trigger - Node
+selectMenu(PAResourceCommand.PACommandNames_AUTO_UPDATE_HIER, "Hierarchy Update"); // af (ao, cr)
+selectMenu(PAResourceQtoS.SrcMenu_IP_HIERARCHY, "IP Hierarchy"); // af (ao, cr)
+selectMenuItem(PAResourceCommand.PACommandNames_ADD_SOURCES, "Add Sources..."); // ai (ao, cr)
+// Run Command: PAResourceCommand.PACommandNames_ADD_SOURCES
+// c (cr): Add Sources: addNotify
+selectRadioButton(PAResourceAtoD.AddSrcWizard_SPECIFY_OR_CREATE_CONSTRAINT_FILES, "Add or create constraints"); // a (o, c)
+selectRadioButton(PAResourceAtoD.AddSrcWizard_SPECIFY_HDL_NETLIST_BLOCK_DESIGN, "Add or create design sources"); // a (o, c)
+selectButton("NEXT", "Next >"); // JButton (j, c)
+selectButton(PAResourceQtoS.SrcChooserPanel_ADD_HDL_AND_NETLIST_FILES_TO_YOUR_PROJECT, "Add Files"); // a (E, c)
+// Elapsed time: 11 seconds
+String[] filenames31467 = {"C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/comparator.v", "C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/muxnto1.v", "C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/my_cache.v"};
+setFileChooser(filenames31467);
+selectButton("FINISH", "Finish"); // JButton (j, c)
+// 'h' command handler elapsed time: 19 seconds
+dismissDialog("Add Sources"); // c (cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Tcl Message: add_files -norecurse {C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/muxnto1.v C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/comparator.v C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/my_cache.v} 
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Tcl Message: update_compile_order -fileset sources_1 
+// Elapsed time: 43 seconds
+unMinimizeFrame(PAResourceOtoP.PAViews_SOURCES, "Sources"); // aA
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, multiplecomp (comparator.v)]", 4, true); // B (F, cr) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, multiplecomp (comparator.v)]", 4, true); // B (F, cr) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, multiplecomp (comparator.v)]", 4, true, false, false, false, false, true); // B (F, cr) - Double Click - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, muxnto1 (muxnto1.v)]", 9, false); // B (F, cr)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, muxnto1 (muxnto1.v)]", 9, false, false, false, false, false, true); // B (F, cr) - Double Click
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "comparator.v", 2); // i (h, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 1); // i (h, cr)
+// Elapsed time: 166 seconds
+unMinimizeFrame(PAResourceOtoP.PAViews_SOURCES, "Sources"); // aA
+// Elapsed time: 68 seconds
+collapseTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, multiplecomp (comparator.v)]", 4); // B (F, cr)
+// HMemoryUtils.trashcanNow. Engine heap size: 930 MB. GUI used memory: 54 MB. Current time: 5/14/20, 4:52:11 PM IST
+// Elapsed time: 738 seconds
+selectButton(RDIResource.HPopupTitle_CLOSE, (String) null); // k (n, ResizableWindow)
+// Elapsed time: 12 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "comparator.v", 2); // i (h, cr)
+// Elapsed time: 14 seconds
+selectCodeEditor("comparator.v", 267, 194); // ch (w, cr)
+// Elapsed time: 25 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 1); // i (h, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "comparator.v", 2); // i (h, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+selectCodeEditor("comparator.v", 92, 173); // ch (w, cr)
+selectCodeEditor("comparator.v", 92, 173, false, false, false, false, true); // ch (w, cr) - Double Click
+typeControlKey((HResource) null, "comparator.v", 'c'); // ch (w, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 1); // i (h, cr)
+selectTab((HResource) null, "PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 1, false, true); // i (h, cr) - Double Click
+maximizeView(PAResourceOtoP.PAViews_BASE_WORKSPACE, "BaseWorkspace"); // P (aI, cr)
+selectCodeEditor("my_cache.v", 132, 492); // ch (w, cr)
+typeControlKey((HResource) null, "my_cache.v", 'v'); // ch (w, cr)
+// Elapsed time: 13 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "comparator.v", 2); // i (h, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 1); // i (h, cr)
+// Elapsed time: 76 seconds
+selectCodeEditor("my_cache.v", 370, 490); // ch (w, cr)
+// Elapsed time: 79 seconds
+selectCodeEditor("my_cache.v", 37, 536); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 19 seconds
+selectCodeEditor("comparator.v", 530, 416); // ch (w, cr)
+// Elapsed time: 19 seconds
+selectCodeEditor("comparator.v", 151, 463); // ch (w, cr)
+selectCodeEditor("comparator.v", 36, 331); // ch (w, cr)
+selectCodeEditor("comparator.v", 174, 316); // ch (w, cr)
+selectCodeEditor("comparator.v", 174, 316, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("comparator.v", 209, 336); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+selectCodeEditor("comparator.v", 218, 430); // ch (w, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 1); // i (h, cr)
+selectCodeEditor("my_cache.v", 492, 552); // ch (w, cr)
+// Elapsed time: 80 seconds
+selectCodeEditor("my_cache.v", 75, 606); // ch (w, cr)
+selectCodeEditor("my_cache.v", 158, 42); // ch (w, cr)
+// Elapsed time: 21 seconds
+selectCodeEditor("my_cache.v", 36, 614); // ch (w, cr)
+// Elapsed time: 113 seconds
+selectCodeEditor("my_cache.v", 61, 621); // ch (w, cr)
+// Elapsed time: 10 seconds
+selectCodeEditor("my_cache.v", 604, 621); // ch (w, cr)
+selectCodeEditor("my_cache.v", 538, 567); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 18 seconds
+selectCodeEditor("my_cache.v", 438, 621); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+selectCodeEditor("my_cache.v", 629, 621); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 28 seconds
+selectCodeEditor("my_cache.v", 311, 317); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 15 seconds
+selectCodeEditor("my_cache.v", 28, 332); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// HMemoryUtils.trashcanNow. Engine heap size: 930 MB. GUI used memory: 55 MB. Current time: 5/14/20, 5:22:11 PM IST
+// HMemoryUtils.trashcanNow. Engine heap size: 930 MB. GUI used memory: 55 MB. Current time: 5/14/20, 5:52:12 PM IST
+// HMemoryUtils.trashcanNow. Engine heap size: 930 MB. GUI used memory: 54 MB. Current time: 5/14/20, 6:22:12 PM IST
+// HMemoryUtils.trashcanNow. Engine heap size: 930 MB. GUI used memory: 54 MB. Current time: 5/14/20, 6:52:12 PM IST
+// HMemoryUtils.trashcanNow. Engine heap size: 930 MB. GUI used memory: 54 MB. Current time: 5/14/20, 7:22:13 PM IST
+// HMemoryUtils.trashcanNow. Engine heap size: 930 MB. GUI used memory: 54 MB. Current time: 5/14/20, 7:52:13 PM IST
+// HMemoryUtils.trashcanNow. Engine heap size: 930 MB. GUI used memory: 54 MB. Current time: 5/14/20, 8:22:13 PM IST
+// HMemoryUtils.trashcanNow. Engine heap size: 930 MB. GUI used memory: 54 MB. Current time: 5/14/20, 8:52:14 PM IST
+// WARNING: HEventQueue.dispatchEvent() is taking  1645418 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 930 MB. GUI used memory: 54 MB. Current time: 5/14/20, 9:38:44 PM IST
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 17509 seconds
+unMinimizeFrame(PAResourceOtoP.PAViews_SOURCES, "Sources"); // aA
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore (mycore.v)]", 2); // B (F, cr)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v)]", 4); // B (F, cr)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v), cache1 : mycache (my_cache.v)]", 5); // B (F, cr)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v), cache1 : mycache (my_cache.v)]", 5, true); // B (F, cr) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v), cache1 : mycache (my_cache.v)]", 5, true, false, false, false, false, true); // B (F, cr) - Double Click - Node
+closeView(PAResourceOtoP.PAViews_CODE, "Code"); // B
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v), cache1 : mycache (my_cache.v)]", 5); // B (F, cr)
+collapseTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v), cache1 : mycache (my_cache.v)]", 5); // B (F, cr)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v), cache1 : mycache (my_cache.v)]", 5); // B (F, cr)
+// Elapsed time: 23 seconds
+collapseTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v)]", 4); // B (F, cr)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v)]", 4, true, false, false, false, true, false); // B (F, cr) - Popup Trigger - Node
+selectMenu(PAResourceQtoS.SrcMenu_IP_HIERARCHY, "IP Hierarchy"); // af (ao, cr)
+selectMenuItem(PAResourceCommand.PACommandNames_ADD_SOURCES, "Add Sources..."); // ai (ao, cr)
+// Run Command: PAResourceCommand.PACommandNames_ADD_SOURCES
+// c (cr): Add Sources: addNotify
+// Elapsed time: 10 seconds
+selectButton("NEXT", "Next >"); // JButton (j, c)
+selectButton(PAResourceQtoS.SrcChooserPanel_ADD_HDL_AND_NETLIST_FILES_TO_YOUR_PROJECT, "Add Files"); // a (E, c)
+setFileChooser("C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/my_cache.v");
+selectButton(PAResourceQtoS.SrcChooserPanel_ADD_HDL_AND_NETLIST_FILES_TO_YOUR_PROJECT, "Add Files"); // a (E, c)
+dismissFileChooser();
+selectButton("FINISH", "Finish"); // JButton (j, c)
+// 'h' command handler elapsed time: 28 seconds
+dismissDialog("Add Sources"); // c (cr)
+// Tcl Message: add_files -norecurse C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/my_cache.v 
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v)]", 4, true); // B (F, cr) - Node
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v)]", 4); // B (F, cr)
+// HMemoryUtils.trashcanNow. Engine heap size: 930 MB. GUI used memory: 55 MB. Current time: 5/14/20, 10:08:45 PM IST
+// Elapsed time: 623 seconds
+selectCodeEditor("my_cache.v", 355, 491); // ch (w, cr)
+// Elapsed time: 510 seconds
+selectCodeEditor("my_cache.v", 444, 286); // ch (w, cr)
+// Elapsed time: 756 seconds
+selectCodeEditor("my_cache.v", 222, 247); // ch (w, cr)
+selectCodeEditor("my_cache.v", 222, 247, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("my_cache.v", 222, 247); // ch (w, cr)
+// Elapsed time: 78 seconds
+selectCodeEditor("my_cache.v", 187, 641); // ch (w, cr)
+// Elapsed time: 19 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "muxnto1.v", 2); // i (h, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "comparator.v", 1); // i (h, cr)
+// Elapsed time: 15 seconds
+unMinimizeFrame(PAResourceOtoP.PAViews_SOURCES, "Sources"); // aA
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v)]", 4, true, false, false, false, true, false); // B (F, cr) - Popup Trigger - Node
+selectMenu(PAResourceCommand.PACommandNames_AUTO_UPDATE_HIER, "Hierarchy Update"); // af (ao, cr)
+selectMenu(PAResourceQtoS.SrcMenu_IP_HIERARCHY, "IP Hierarchy"); // af (ao, cr)
+selectMenuItem(PAResourceCommand.PACommandNames_ADD_SOURCES, "Add Sources..."); // ai (ao, cr)
+// Run Command: PAResourceCommand.PACommandNames_ADD_SOURCES
+// c (cr): Add Sources: addNotify
+selectButton("NEXT", "Next >"); // JButton (j, c)
+selectButton(PAResourceQtoS.SrcChooserPanel_ADD_HDL_AND_NETLIST_FILES_TO_YOUR_PROJECT, "Add Files"); // a (E, c)
+// Elapsed time: 13 seconds
+dismissFileChooser();
+// 'h' command handler elapsed time: 19 seconds
+dismissDialog("Add Sources"); // c (cr)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v), cache1 : mycache (my_cache.v), mc_1 : multiplecomp (comparator.v)]", 6); // B (F, cr)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v), cache1 : mycache (my_cache.v), mc_1 : multiplecomp (comparator.v), comp1 : comparatorTag (comparator.v)]", 7, false); // B (F, cr)
+// Elapsed time: 12 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 3); // i (h, cr)
+selectCodeEditor("my_cache.v", 290, 529); // ch (w, cr)
+collapseTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v), cache1 : mycache (my_cache.v), mc_1 : multiplecomp (comparator.v)]", 6); // B (F, cr)
+// Elapsed time: 18 seconds
+collapseTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v)]", 4); // B (F, cr)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v)]", 4, true, false, false, false, true, false); // B (F, cr) - Popup Trigger - Node
+selectMenu(PAResourceCommand.PACommandNames_AUTO_UPDATE_HIER, "Hierarchy Update"); // af (ao, cr)
+selectMenuItem(PAResourceCommand.PACommandNames_ADD_SOURCES, "Add Sources..."); // ai (ao, cr)
+// Run Command: PAResourceCommand.PACommandNames_ADD_SOURCES
+// c (cr): Add Sources: addNotify
+selectButton("NEXT", "Next >"); // JButton (j, c)
+selectButton(PAResourceQtoS.SrcChooserPanel_ADD_HDL_AND_NETLIST_FILES_TO_YOUR_PROJECT, "Add Files"); // a (E, c)
+String[] filenames16706 = {"C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/comparator.v", "C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/muxnto1.v", "C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/my_cache.v", "C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/mycache_withmem.v"};
+setFileChooser(filenames16706);
+selectButton("FINISH", "Finish"); // JButton (j, c)
+// 'h' command handler elapsed time: 11 seconds
+dismissDialog("Add Sources"); // c (cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Tcl Message: add_files -norecurse {C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/muxnto1.v C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/comparator.v C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/my_cache.v C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/mycache_withmem.v} 
+closeView(PAResourceOtoP.PAViews_CODE, "Code"); // B
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Tcl Message: update_compile_order -fileset sources_1 
+closeView(PAResourceOtoP.PAViews_CODE, "Code"); // B
+selectCodeEditor("my_cache.v", 131, 135); // ch (w, cr)
+// TclEventType: FILE_SET_CHANGE
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v)]", 4); // B (F, cr)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v), cache1 : mycache (my_cache.v)]", 5); // B (F, cr)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v), cache1 : mycache (my_cache.v), mc_1 : multiplecomp (comparator.v)]", 6); // B (F, cr)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v), cache1 : mycache (my_cache.v)]", 5, true); // B (F, cr) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v), cache1 : mycache (my_cache.v)]", 5, true, false, false, false, false, true); // B (F, cr) - Double Click - Node
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v), cache1 : mycache (my_cache.v)]", 5); // B (F, cr)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v), cache1 : mycache (my_cache.v), mc_1 : multiplecomp (comparator.v)]", 6, true); // B (F, cr) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v), cache1 : mycache (my_cache.v), mc_1 : multiplecomp (comparator.v)]", 6, true, false, false, false, false, true); // B (F, cr) - Double Click - Node
+selectCodeEditor("comparator.v", 89, 317); // ch (w, cr)
+selectCodeEditor("comparator.v", 89, 317, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("comparator.v", 352, 425); // ch (w, cr)
+selectCodeEditor("comparator.v", 524, 505); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 37 seconds
+selectCodeEditor("comparator.v", 540, 505); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 24 seconds
+selectCodeEditor("comparator.v", 119, 571); // ch (w, cr)
+// HMemoryUtils.trashcanNow. Engine heap size: 930 MB. GUI used memory: 55 MB. Current time: 5/14/20, 10:38:45 PM IST
+selectCodeEditor("comparator.v", 71, 601); // ch (w, cr)
+selectCodeEditor("comparator.v", 70, 592); // ch (w, cr)
+selectCodeEditor("comparator.v", 70, 592, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("comparator.v", 56, 583); // ch (w, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 1); // i (h, cr)
+// Elapsed time: 11 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "comparator.v", 2); // i (h, cr)
+// Elapsed time: 13 seconds
+selectCodeEditor("comparator.v", 69, 518); // ch (w, cr)
+// Elapsed time: 13 seconds
+selectCodeEditor("comparator.v", 225, 420); // ch (w, cr)
+// Elapsed time: 16 seconds
+selectCodeEditor("comparator.v", 244, 533); // ch (w, cr)
+// Elapsed time: 15 seconds
+selectCodeEditor("comparator.v", 60, 620); // ch (w, cr)
+selectCodeEditor("comparator.v", 350, 662); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 19 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 1); // i (h, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "comparator.v", 2); // i (h, cr)
+// Elapsed time: 12 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 1); // i (h, cr)
+// Elapsed time: 174 seconds
+selectCodeEditor("my_cache.v", 192, 265); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 46 seconds
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Utility Sources]", 11, true, false, false, false, true, false); // B (F, cr) - Popup Trigger - Node
+typeControlKey(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, (String) null, 'a'); // B (F, cr)
+selectCodeEditor("my_cache.v", 600, 304); // ch (w, cr)
+selectCodeEditor("my_cache.v", 468, 352); // ch (w, cr)
+selectCodeEditor("my_cache.v", 468, 352, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("my_cache.v", 492, 331); // ch (w, cr)
+// Run Command: PAResourceCommand.PACommandNames_ADD_SOURCES
+// c (cr): Add Sources: addNotify
+selectButton("NEXT", "Next >"); // JButton (j, c)
+selectButton(PAResourceQtoS.SrcChooserPanel_CREATE_FILE, "Create File"); // a (E, c)
+// F (c): Create Source File: addNotify
+// Elapsed time: 14 seconds
+setText(PAResourceAtoD.CreateSrcFileDialog_FILE_NAME, "mycache_tb"); // ac (Q, F)
+selectButton(RDIResource.BaseDialog_CANCEL, "Cancel"); // a (F)
+dismissDialog("Create Source File"); // F (c)
+// 'h' command handler elapsed time: 22 seconds
+dismissDialog("Add Sources"); // c (cr)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v)]", 4, true); // B (F, cr) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v)]", 4, true); // B (F, cr) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v)]", 4, true, false, false, false, false, true); // B (F, cr) - Double Click - Node
+// Elapsed time: 15 seconds
+selectCodeEditor("mycore_tb.v", 152, 656); // ch (w, cr)
+// Elapsed time: 44 seconds
+unMinimizeFrame(PAResourceOtoP.PAViews_SOURCES, "Sources"); // aA
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v)]", 4, true, false, false, false, true, false); // B (F, cr) - Popup Trigger - Node
+selectTab((HResource) null, "PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "mycore_tb.v", 3, true, false); // i (h, cr) - Popup Trigger
+selectMenuItem((HResource) null, "Split Vertically"); // JMenuItem (JidePopupMenu)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 1); // i (h, cr)
+// Elapsed time: 21 seconds
+selectCodeEditor("mycore_tb.v", 120, 487); // ch (w, cr)
+selectCodeEditor("mycore_tb.v", 120, 484); // ch (w, cr)
+// Elapsed time: 18 seconds
+selectCodeEditor("mycore_tb.v", 119, 656); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Tcl Message: ERROR: [Common 17-180] Spawn failed: No error 
+// Elapsed time: 29 seconds
+selectCodeEditor("mycore_tb.v", 164, 381); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 59 seconds
+selectCodeEditor("mycore_tb.v", 117, 505); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 22 seconds
+selectCodeEditor("mycore_tb.v", 175, 469); // ch (w, cr)
+selectCodeEditor("mycore_tb.v", 135, 455); // ch (w, cr)
+selectCodeEditor("mycore_tb.v", 170, 608); // ch (w, cr)
+// Elapsed time: 28 seconds
+selectCodeEditor("mycore_tb.v", 111, 654); // ch (w, cr)
+// Elapsed time: 543 seconds
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v)]", 5, true, false, false, false, true, false); // B (F, cr) - Popup Trigger - Node
+selectMenu(PAResourceCommand.PACommandNames_AUTO_UPDATE_HIER, "Hierarchy Update"); // af (ao, cr)
+selectMenu(PAResourceQtoS.SrcMenu_IP_HIERARCHY, "IP Hierarchy"); // af (ao, cr)
+selectMenuItem(PAResourceCommand.PACommandNames_ADD_SOURCES, "Add Sources..."); // ai (ao, cr)
+// Run Command: PAResourceCommand.PACommandNames_ADD_SOURCES
+// c (cr): Add Sources: addNotify
+selectButton("NEXT", "Next >"); // JButton (j, c)
+selectButton(PAResourceQtoS.SrcChooserPanel_CREATE_FILE, "Create File"); // a (E, c)
+// F (c): Create Source File: addNotify
+setText(PAResourceAtoD.CreateSrcFileDialog_FILE_NAME, "picorv32"); // ac (Q, F)
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a (F)
+dismissDialog("Create Source File"); // F (c)
+selectButton("FINISH", "Finish"); // JButton (j, c)
+// 'h' command handler elapsed time: 16 seconds
+dismissDialog("Add Sources"); // c (cr)
+// Tcl Message: close [ open C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/picorv32.v w ] 
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Tcl Message: add_files C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/picorv32.v 
+// I (cr): Define Module: addNotify
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a (I)
+// TclEventType: FILE_SET_CHANGE
+selectButton("OptionPane.button", "Yes"); // JButton (A, H)
+dismissDialog("Define Module"); // I (cr)
+// Tcl Message: update_compile_order -fileset sources_1 
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore (mycore.v), uut : picorv32 (picorv32.v)]", 4, false); // B (F, cr)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore (mycore.v), uut : picorv32 (picorv32.v)]", 4, false, false, false, false, false, true); // B (F, cr) - Double Click
+selectCodeEditor("picorv32.v", 105, 430); // ch (w, cr)
+typeControlKey((HResource) null, "picorv32.v", 'v'); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Run Command: PAResourceCommand.PACommandNames_ADD_SOURCES
+// c (cr): Add Sources: addNotify
+// Elapsed time: 37 seconds
+selectButton("NEXT", "Next >"); // JButton (j, c)
+selectButton(PAResourceQtoS.SrcChooserPanel_ADD_HDL_AND_NETLIST_FILES_TO_YOUR_PROJECT, "Add Files"); // a (E, c)
+dismissFileChooser();
+selectButton(PAResourceQtoS.SrcChooserPanel_CREATE_FILE, "Create File"); // a (E, c)
+// F (c): Create Source File: addNotify
+setText(PAResourceAtoD.CreateSrcFileDialog_FILE_NAME, "testbench_ez"); // ac (Q, F)
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a (F)
+dismissDialog("Create Source File"); // F (c)
+selectButton("FINISH", "Finish"); // JButton (j, c)
+// 'h' command handler elapsed time: 17 seconds
+dismissDialog("Add Sources"); // c (cr)
+// Tcl Message: close [ open C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/testbench_ez.v w ] 
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Tcl Message: add_files C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/testbench_ez.v 
+// I (cr): Define Module: addNotify
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a (I)
+// TclEventType: FILE_SET_CHANGE
+selectButton("OptionPane.button", "Yes"); // JButton (A, H)
+dismissDialog("Define Module"); // I (cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Tcl Message: update_compile_order -fileset sources_1 
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, testbench_ez (testbench_ez.v)]", 10, false); // B (F, cr)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, testbench_ez (testbench_ez.v)]", 10, false, false, false, false, false, true); // B (F, cr) - Double Click
+typeControlKey((HResource) null, "testbench_ez.v", 'v'); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 20 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "mycore_tb.v", 0); // i (h, cr)
+selectCodeEditor("mycore_tb.v", 129, 236); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "picorv32.v", 1); // i (h, cr)
+// Elapsed time: 19 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "testbench_ez.v", 2); // i (h, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "picorv32.v", 1); // i (h, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "testbench_ez.v", 2); // i (h, cr)
+// Elapsed time: 44 seconds
+selectCodeEditor("testbench_ez.v", 61, 718); // ch (w, cr)
+selectCodeEditor("testbench_ez.v", 190, 375); // ch (w, cr)
+// Run Command: PAResourceCommand.PACommandNames_ADD_SOURCES
+// c (cr): Add Sources: addNotify
+selectButton("NEXT", "Next >"); // JButton (j, c)
+selectButton(PAResourceQtoS.SrcChooserPanel_CREATE_FILE, "Create File"); // a (E, c)
+// F (c): Create Source File: addNotify
+setText(PAResourceAtoD.CreateSrcFileDialog_FILE_NAME, "testbench_small"); // ac (Q, F)
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a (F)
+dismissDialog("Create Source File"); // F (c)
+selectButton("FINISH", "Finish"); // JButton (j, c)
+// 'h' command handler elapsed time: 13 seconds
+dismissDialog("Add Sources"); // c (cr)
+// Tcl Message: close [ open C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/testbench_small.v w ] 
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Tcl Message: add_files C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/testbench_small.v 
+// I (cr): Define Module: addNotify
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a (I)
+// TclEventType: FILE_SET_CHANGE
+selectButton("OptionPane.button", "Yes"); // JButton (A, H)
+dismissDialog("Define Module"); // I (cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Tcl Message: update_compile_order -fileset sources_1 
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, testbench_small (testbench_small.v)]", 10, false); // B (F, cr)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, testbench_small (testbench_small.v)]", 10, false, false, false, false, false, true); // B (F, cr) - Double Click
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "testbench_ez.v", 2); // i (h, cr)
+selectCodeEditor("testbench_ez.v", 160, 358); // ch (w, cr)
+typeControlKey((HResource) null, "testbench_ez.v", 'c'); // ch (w, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "testbench_small.v", 3); // i (h, cr)
+selectCodeEditor("testbench_small.v", 258, 202); // ch (w, cr)
+typeControlKey((HResource) null, "testbench_small.v", 'v'); // ch (w, cr)
+selectCodeEditor("testbench_small.v", 29, 367); // ch (w, cr)
+selectCodeEditor("testbench_small.v", 155, 437); // ch (w, cr)
+selectCodeEditor("testbench_small.v", 71, 725); // ch (w, cr)
+// Elapsed time: 36 seconds
+selectCodeEditor("testbench_small.v", 101, 687); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+selectCodeEditor("testbench_small.v", 83, 704); // ch (w, cr)
+// Elapsed time: 72 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "testbench_ez.v", 2); // i (h, cr)
+selectCodeEditor("testbench_ez.v", 188, 182); // ch (w, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "testbench_small.v", 3); // i (h, cr)
+selectCodeEditor("testbench_small.v", 109, 143); // ch (w, cr)
+selectCodeEditor("testbench_small.v", 148, 166); // ch (w, cr)
+// Elapsed time: 14 seconds
+selectCodeEditor("testbench_small.v", 97, 591); // ch (w, cr)
+selectCodeEditor("testbench_small.v", 97, 591, false, false, false, false, true); // ch (w, cr) - Double Click
+// Elapsed time: 22 seconds
+selectCodeEditor("testbench_small.v", 152, 594); // ch (w, cr)
+selectCodeEditor("testbench_small.v", 130, 590); // ch (w, cr)
+selectCodeEditor("testbench_small.v", 126, 586); // ch (w, cr)
+selectCodeEditor("testbench_small.v", 128, 591); // ch (w, cr)
+// Elapsed time: 26 seconds
+selectCodeEditor("testbench_small.v", 79, 586); // ch (w, cr)
+selectCodeEditor("testbench_small.v", 106, 671); // ch (w, cr)
+selectCodeEditor("testbench_small.v", 178, 686); // ch (w, cr)
+// HMemoryUtils.trashcanNow. Engine heap size: 930 MB. GUI used memory: 60 MB. Current time: 5/14/20, 11:08:45 PM IST
+// Elapsed time: 240 seconds
+selectCodeEditor("testbench_small.v", 160, 588); // ch (w, cr)
+// Elapsed time: 126 seconds
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v)]", 6); // B (F, cr)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v), cache1 : mycache (my_cache.v)]", 7); // B (F, cr)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v), cache1 : mycache (my_cache.v), m : muxnto1 (muxnto1.v)]", 9, false); // B (F, cr)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v), cache1 : mycache (my_cache.v), m : muxnto1 (muxnto1.v)]", 9, false, false, false, false, false, true); // B (F, cr) - Double Click
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "muxnto1.v", 4); // i (h, cr)
+selectCodeEditor("muxnto1.v", 114, 163); // ch (w, cr)
+selectButton(PAResourceAtoD.AbstractFileView_CLOSE, (String) null); // k (B, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "muxnto1.v", 4); // i (h, cr)
+selectCodeEditor("muxnto1.v", 90, 162); // ch (w, cr)
+selectCodeEditor("muxnto1.v", 89, 268); // ch (w, cr)
+// Elapsed time: 19 seconds
+selectCodeEditor("muxnto1.v", 62, 144); // ch (w, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "mycore_tb.v", 3); // i (h, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 1); // i (h, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "muxnto1.v", 4); // i (h, cr)
+selectCodeEditor("muxnto1.v", 146, 283); // ch (w, cr)
+selectCodeEditor("muxnto1.v", 274, 46); // ch (w, cr)
+// Elapsed time: 13 seconds
+selectCodeEditor("muxnto1.v", 141, 62); // ch (w, cr)
+selectCodeEditor("muxnto1.v", 141, 62, false, false, false, false, true); // ch (w, cr) - Double Click
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 18 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 1); // i (h, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "muxnto1.v", 4); // i (h, cr)
+selectCodeEditor("muxnto1.v", 54, 180); // ch (w, cr)
+// Elapsed time: 11 seconds
+selectCodeEditor("muxnto1.v", 146, 180); // ch (w, cr)
+// Elapsed time: 19 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "mycore_tb.v", 3); // i (h, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 1); // i (h, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "comparator.v", 2); // i (h, cr)
+// Elapsed time: 32 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "muxnto1.v", 4); // i (h, cr)
+// Elapsed time: 91 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "comparator.v", 2); // i (h, cr)
+// Elapsed time: 59 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "picorv32.v", 1); // i (h, cr)
+selectCodeEditor("comparator.v", 449, 131); // ch (w, cr)
+// Elapsed time: 22 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 1); // i (h, cr)
+// Elapsed time: 787 seconds
+selectCodeEditor("my_cache.v", 355, 150); // ch (w, cr)
+// Elapsed time: 11 seconds
+selectCodeEditor("my_cache.v", 392, 170); // ch (w, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "muxnto1.v", 4); // i (h, cr)
+selectCodeEditor("muxnto1.v", 174, 321); // ch (w, cr)
+// Run Command: PAResourceCommand.PACommandNames_ADD_SOURCES
+// c (cr): Add Sources: addNotify
+// Elapsed time: 17 seconds
+selectButton("NEXT", "Next >"); // JButton (j, c)
+selectButton(PAResourceQtoS.SrcChooserPanel_CREATE_FILE, "Create File"); // a (E, c)
+// F (c): Create Source File: addNotify
+// Elapsed time: 42 seconds
+setText(PAResourceAtoD.CreateSrcFileDialog_FILE_NAME, "l1_cache"); // ac (Q, F)
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a (F)
+dismissDialog("Create Source File"); // F (c)
+selectButton("FINISH", "Finish"); // JButton (j, c)
+// 'h' command handler elapsed time: 51 seconds
+dismissDialog("Add Sources"); // c (cr)
+// Tcl Message: close [ open C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/l1_cache.v w ] 
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Tcl Message: add_files C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/l1_cache.v 
+// I (cr): Define Module: addNotify
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a (I)
+// TclEventType: FILE_SET_CHANGE
+selectButton("OptionPane.button", "Yes"); // JButton (A, H)
+dismissDialog("Define Module"); // I (cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Tcl Message: update_compile_order -fileset sources_1 
+// Elapsed time: 15 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "testbench_ez.v", 2); // i (h, cr)
+// Elapsed time: 19 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "mycore_tb.v", 3); // i (h, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 1); // i (h, cr)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v), cache1 : mycache (my_cache.v), mc_1 : multiplecomp (comparator.v)]", 9); // B (F, cr)
+// Elapsed time: 10 seconds
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, l1_cache (l1_cache.v)]", 16, false); // B (F, cr)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, l1_cache (l1_cache.v)]", 16, false, false, false, false, false, true); // B (F, cr) - Double Click
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, l1_cache (l1_cache.v)]", 16, false); // B (F, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "comparator.v", 2); // i (h, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 1); // i (h, cr)
+// Elapsed time: 14 seconds
+selectCodeEditor("my_cache.v", 75, 741); // ch (w, cr)
+// Elapsed time: 10 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "l1_cache.v", 5); // i (h, cr)
+// Elapsed time: 10 seconds
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycache_withmem (mycache_withmem.v)]", 17, false); // B (F, cr)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycache_withmem (mycache_withmem.v)]", 17, false, false, false, false, false, true); // B (F, cr) - Double Click
+selectCodeEditor("mycache_withmem.v", 84, 481); // ch (w, cr)
+typeControlKey((HResource) null, "mycache_withmem.v", 'v'); // ch (w, cr)
+selectCodeEditor("mycache_withmem.v", 169, 486); // ch (w, cr)
+selectCodeEditor("mycache_withmem.v", 83, 180); // ch (w, cr)
+typeControlKey(null, null, 'z');
+typeControlKey(null, null, 'z');
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "comparator.v", 2); // i (h, cr)
+// Elapsed time: 10 seconds
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v), cache1 : mycache (my_cache.v)]", 8, true); // B (F, cr) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mycore_tb (mycore_tb.v), cache1 : mycache (my_cache.v)]", 8, true, false, false, false, false, true); // B (F, cr) - Double Click - Node
+selectCodeEditor("my_cache.v", 84, 300); // ch (w, cr)
+selectCodeEditor("my_cache.v", 230, 392); // ch (w, cr)
+selectCodeEditor("my_cache.v", 92, 740); // ch (w, cr)
+typeControlKey((HResource) null, "my_cache.v", 'v'); // ch (w, cr)
+selectCodeEditor("my_cache.v", 310, 323, false, true, false, false, false); // ch (w, cr) - Control Key
+typeControlKey(null, null, 'z');
+typeControlKey(null, null, 'z');
+typeControlKey(null, null, 'z');
+typeControlKey((HResource) null, "my_cache.v", 'c'); // ch (w, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "mycache_withmem.v", 6); // i (h, cr)
+selectCodeEditor("mycache_withmem.v", 93, 488); // ch (w, cr)
+selectCodeEditor("mycache_withmem.v", 93, 488, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("mycache_withmem.v", 93, 488); // ch (w, cr)
+selectCodeEditor("mycache_withmem.v", 93, 488); // ch (w, cr)
+typeControlKey((HResource) null, "mycache_withmem.v", 'v'); // ch (w, cr)
+selectCodeEditor("mycache_withmem.v", 217, 601); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 1); // i (h, cr)
+selectCodeEditor("my_cache.v", 82, 719); // ch (w, cr)
+selectCodeEditor("my_cache.v", 58, 702); // ch (w, cr)
+// Elapsed time: 10 seconds
+selectCodeEditor("my_cache.v", 138, 132); // ch (w, cr)
+// Elapsed time: 14 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "muxnto1.v", 4); // i (h, cr)
+selectCodeEditor("muxnto1.v", 159, 79); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 1); // i (h, cr)
+selectCodeEditor("my_cache.v", 283, 328); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// Elapsed time: 49 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "comparator.v", 2); // i (h, cr)
+// Elapsed time: 13 seconds
+selectCodeEditor("comparator.v", 122, 266); // ch (w, cr)
+// TclEventType: FILE_SET_CHANGE
+typeControlKey(null, null, 'z');
+selectCodeEditor("comparator.v", 250, 259); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 1); // i (h, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "comparator.v", 2); // i (h, cr)
+selectCodeEditor("comparator.v", 218, 290); // ch (w, cr)
+typeControlKey((HResource) null, "comparator.v", 'v'); // ch (w, cr)
+typeControlKey(null, null, 'z');
+typeControlKey(null, null, 'z');
+typeControlKey(null, null, 'z');
+selectCodeEditor("comparator.v", 248, 378); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 1); // i (h, cr)
+// Elapsed time: 12 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "comparator.v", 2); // i (h, cr)
+typeControlKey(null, null, 'z');
+typeControlKey(null, null, 'z');
+typeControlKey(null, null, 'z');
+selectCodeEditor("comparator.v", 183, 441); // ch (w, cr)
+typeControlKey(null, null, 'z');
+selectCodeEditor("comparator.v", 149, 407); // ch (w, cr)
+selectCodeEditor("comparator.v", 1, 434); // ch (w, cr)
+selectCodeEditor("comparator.v", 112, 264); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 18 seconds
+selectCodeEditor("comparator.v", 156, 95); // ch (w, cr)
+// HMemoryUtils.trashcanNow. Engine heap size: 930 MB. GUI used memory: 61 MB. Current time: 5/14/20, 11:38:46 PM IST
+selectCodeEditor("comparator.v", 128, 99); // ch (w, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 1); // i (h, cr)
+selectCodeEditor("my_cache.v", 111, 656); // ch (w, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "comparator.v", 2); // i (h, cr)
+selectCodeEditor("comparator.v", 141, 91); // ch (w, cr)
+selectCodeEditor("comparator.v", 141, 91, false, false, false, false, true); // ch (w, cr) - Double Click
+// Elapsed time: 13 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 1); // i (h, cr)
+selectCodeEditor("my_cache.v", 70, 685); // ch (w, cr)
+selectCodeEditor("my_cache.v", 136, 692); // ch (w, cr)
+selectCodeEditor("my_cache.v", 81, 677); // ch (w, cr)
+selectCodeEditor("my_cache.v", 237, 657); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "comparator.v", 2); // i (h, cr)
+selectCodeEditor("comparator.v", 200, 344); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 12 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 1); // i (h, cr)
+selectCodeEditor("my_cache.v", 397, 692); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "comparator.v", 2); // i (h, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "muxnto1.v", 4); // i (h, cr)
+// Elapsed time: 30 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "comparator.v", 2); // i (h, cr)
+// Elapsed time: 64 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 1); // i (h, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "mycache_withmem.v", 6); // i (h, cr)
+selectCodeEditor("mycache_withmem.v", 0, 157); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+selectCodeEditor("mycache_withmem.v", 214, 343); // ch (w, cr)
+selectCodeEditor("mycache_withmem.v", 272, 574); // ch (w, cr)
+// Elapsed time: 49 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 1); // i (h, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "mycache_withmem.v", 6); // i (h, cr)
+selectCodeEditor("mycache_withmem.v", 453, 739); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+selectCodeEditor("mycache_withmem.v", 300, 740); // ch (w, cr)
+// Elapsed time: 13 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "my_cache.v", 1); // i (h, cr)
+selectCodeEditor("my_cache.v", 159, 97); // ch (w, cr)
+selectCodeEditor("my_cache.v", 159, 97); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+selectCodeEditor("my_cache.v", 353, 750); // ch (w, cr)
+selectCodeEditor("my_cache.v", 154, 591); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 14 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "mycache_withmem.v", 6); // i (h, cr)
+selectCodeEditor("mycache_withmem.v", 482, 439); // ch (w, cr)
+selectCodeEditor("mycache_withmem.v", 172, 500); // ch (w, cr)
+selectCodeEditor("mycache_withmem.v", 176, 498); // ch (w, cr)
+selectCodeEditor("mycache_withmem.v", 176, 498, false, false, false, false, true); // ch (w, cr) - Double Click
+// Elapsed time: 88 seconds
+selectCodeEditor("mycache_withmem.v", 53, 625); // ch (w, cr)
+selectCodeEditor("mycache_withmem.v", 169, 638); // ch (w, cr)
+selectCodeEditor("mycache_withmem.v", 120, 367); // ch (w, cr)
+// Elapsed time: 27 seconds
+typeControlKey((HResource) null, "mycache_withmem.v", 'v'); // ch (w, cr)
+selectCodeEditor("mycache_withmem.v", 50, 651); // ch (w, cr)
+typeControlKey((HResource) null, "mycache_withmem.v", 'c'); // ch (w, cr)
+selectCodeEditor("mycache_withmem.v", 165, 365); // ch (w, cr)
+typeControlKey((HResource) null, "mycache_withmem.v", 'v'); // ch (w, cr)
+selectCodeEditor("mycache_withmem.v", 139, 366); // ch (w, cr)
+selectCodeEditor("mycache_withmem.v", 139, 366, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("mycache_withmem.v", 139, 366); // ch (w, cr)
+selectCodeEditor("mycache_withmem.v", 139, 366); // ch (w, cr)
+selectCodeEditor("mycache_withmem.v", 111, 370); // ch (w, cr)
+selectCodeEditor("mycache_withmem.v", 111, 370, false, false, false, false, true); // ch (w, cr) - Double Click
+// Elapsed time: 18 seconds
+selectCodeEditor("mycache_withmem.v", 310, 368); // ch (w, cr)
+// Elapsed time: 33 seconds
+selectCodeEditor("mycache_withmem.v", 223, 568); // ch (w, cr)
+typeControlKey((HResource) null, "mycache_withmem.v", 'c'); // ch (w, cr)
+selectCodeEditor("mycache_withmem.v", 172, 232); // ch (w, cr)
+typeControlKey((HResource) null, "mycache_withmem.v", 'v'); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 26 seconds
+selectCodeEditor("mycache_withmem.v", 157, 265); // ch (w, cr)
+// Elapsed time: 11 seconds
+selectCodeEditor("mycache_withmem.v", 22, 152); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+selectCodeEditor("mycache_withmem.v", 102, 159); // ch (w, cr)
+selectCodeEditor("mycache_withmem.v", 102, 159, false, false, false, false, true); // ch (w, cr) - Double Click
+selectCodeEditor("mycache_withmem.v", 102, 159); // ch (w, cr)
+selectCodeEditor("mycache_withmem.v", 17, 233); // ch (w, cr)
+typeControlKey((HResource) null, "mycache_withmem.v", 'v'); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+selectCodeEditor("mycache_withmem.v", 129, 376); // ch (w, cr)
+// Elapsed time: 74 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "testbench_small.v", 3); // i (h, cr)
+selectCodeEditor("mycache_withmem.v", 408, 266, false, false, false, true, false); // ch (w, cr) - Popup Trigger
+selectCodeEditor("mycache_withmem.v", 97, 7); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 10 seconds
+selectCodeEditor("testbench_small.v", 80, 536); // ch (w, cr)
+selectCodeEditor("testbench_small.v", 72, 535); // ch (w, cr)
+// Elapsed time: 12 seconds
+selectCodeEditor("testbench_small.v", 75, 614); // ch (w, cr)
+// Elapsed time: 66 seconds
+selectCodeEditor("testbench_small.v", 128, 659); // ch (w, cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+selectCodeEditor("testbench_small.v", 173, 670); // ch (w, cr)
+// Elapsed time: 10 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "testbench_ez.v", 2); // i (h, cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "testbench_small.v", 3); // i (h, cr)
+// Elapsed time: 15 seconds
+selectCodeEditor("mycache_withmem.v", 120, 187); // ch (w, cr)
+selectCodeEditor("testbench_small.v", 123, 261); // ch (w, cr)
+// Elapsed time: 36 seconds
+selectButton(PAResourceOtoP.PlanAheadTab_SHOW_FLOW_NAVIGATOR, "Flow Navigator"); // C (N, cr)
+selectTree(PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, "[, Synthesis, Run Synthesis]", 14, false); // u (O, cr)
+// Run Command: PAResourceCommand.PACommandNames_RUN_SYNTHESIS
+// al (cr): Save Project: addNotify
+// 'k' command handler elapsed time: 3 seconds
+dismissDialog("Save Project"); // al (cr)
+selectTree(PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, "[, Simulation, Run Simulation]", 10, false); // u (O, cr)
+selectMenuItem(PAResourceCommand.PACommandNames_SIMULATION_RUN_BEHAVIORAL, "Run Behavioral Simulation"); // ai (ao, cr)
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_RUN_BEHAVIORAL
+// al (cr): Save Project: addNotify
+selectButton(PAResourceQtoS.SaveProjectUtils_SAVE, "Save"); // a (al)
+// bB (cr):  Save Constraints : addNotify
+// TclEventType: DG_GRAPH_STALE
+// e (cr):  Run Simulation : addNotify
+dismissDialog("Save Project"); // al (cr)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: LAUNCH_SIM
+// Tcl Message: launch_simulation 
+// Tcl Message: Command: launch_simulation  
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Tcl Message: INFO: [Vivado 12-5682] Launching behavioral simulation in 'C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.sim/sim_1/behav/xsim' INFO: [SIM-utils-51] Simulation object is 'sim_1' INFO: [SIM-utils-54] Inspecting design source files for 'mycore' in fileset 'sim_1'... INFO: [USF-XSim-97] Finding global include files... INFO: [USF-XSim-98] Fetching design files from 'sim_1'... INFO: [USF-XSim-2] XSim::Compile design 
+// Tcl Message: INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.sim/sim_1/behav/xsim' 
+// Tcl Message: "xvlog --incr --relax -prj mycore_vlog.prj" 
+// TclEventType: LAUNCH_SIM_LOG
+// Tcl Message: INFO: [USF-XSim-69] 'compile' step finished in '5' seconds INFO: [USF-XSim-3] XSim::Elaborate design INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.sim/sim_1/behav/xsim' 
+// Tcl Message: "xelab -wto 3f5a84d903d74706bf6b764ef651ce57 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot mycore_behav xil_defaultlib.mycore xil_defaultlib.glbl -log elaborate.log" 
+// TclEventType: LAUNCH_SIM
+// Tcl Message: INFO: [USF-XSim-69] 'elaborate' step finished in '3' seconds INFO: [USF-XSim-99] Step results log file:'C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.sim/sim_1/behav/xsim/elaborate.log' 
+// Tcl Message: ERROR: [USF-XSim-62] 'elaborate' step failed with error(s). Please check the Tcl console output or 'C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.sim/sim_1/behav/xsim/elaborate.log' file for more information. ERROR: [Vivado 12-4473] Detected error while running simulation. Please correct the issue and retry this operation. 
+// Tcl Message: launch_simulation: Time (s): cpu = 00:00:02 ; elapsed = 00:00:12 . Memory (MB): peak = 975.113 ; gain = 0.000 
+// Tcl Message: ERROR: [Common 17-39] 'launch_simulation' failed due to earlier errors. 
+// CommandFailedException: ERROR: [Common 17-69] Command failed: ERROR: [Common 17-39] 'launch_simulation' failed due to earlier errors.  
+// HOptionPane Error: 'ERROR: [Common 17-39] 'launch_simulation' failed due to earlier errors.  (Run Simulation)'
+// 'd' command handler elapsed time: 22 seconds
+// Elapsed time: 17 seconds
+selectButton("OptionPane.button", "OK"); // JButton (A, G)
+// a (cr): Critical Messages: addNotify
+// Elapsed time: 10 seconds
+unMinimizeFrame(PAResourceOtoP.PAViews_TCL_CONSOLE, "Tcl Console"); // aA
+selectButton(PAResourceAtoD.CmdMsgDialog_OPEN_MESSAGES_VIEW, "Open Messages View"); // a (a)
+// Run Command: PAResourceCommand.PACommandNames_MESSAGE_WINDOW
+dismissDialog("Critical Messages"); // a (cr)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "picorv32.v", 1); // i (h, cr)
+// Elapsed time: 67 seconds
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources]", 13, true); // B (F, cr) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Utility Sources]", 14, true); // B (F, cr) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Utility Sources]", 14, true, false, false, false, false, true); // B (F, cr) - Double Click - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Utility Sources, utils_1]", 15, false); // B (F, cr)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Utility Sources, utils_1]", 15, false, false, false, false, false, true); // B (F, cr) - Double Click
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Utility Sources, utils_1]", 15, false); // B (F, cr)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Utility Sources, utils_1]", 15, false, false, false, false, false, true); // B (F, cr) - Double Click
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Utility Sources, utils_1]", 15, false); // B (F, cr)
+collapseTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Utility Sources]", 14); // B (F, cr)
+// Elapsed time: 27 seconds
+selectTree(PAResourceItoN.MsgTreePanel_MESSAGE_VIEW_TREE, "[, Vivado Commands, General Messages, [USF-XSim-62] 'elaborate' step failed with error(s). Please check the Tcl console output or 'C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.sim/sim_1/behav/xsim/elaborate.log' file for more information.. ]", 4, false); // ah (O, cr)
+selectTree(PAResourceItoN.MsgTreePanel_MESSAGE_VIEW_TREE, "[, Vivado Commands, General Messages, [USF-XSim-62] 'elaborate' step failed with error(s). Please check the Tcl console output or 'C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.sim/sim_1/behav/xsim/elaborate.log' file for more information.. ]", 4, false); // ah (O, cr)
+selectTree(PAResourceItoN.MsgTreePanel_MESSAGE_VIEW_TREE, "[, Vivado Commands, General Messages, [USF-XSim-62] 'elaborate' step failed with error(s). Please check the Tcl console output or 'C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.sim/sim_1/behav/xsim/elaborate.log' file for more information.. ]", 4, false, false, false, false, false, true); // ah (O, cr) - Double Click
+selectTree(PAResourceItoN.MsgTreePanel_MESSAGE_VIEW_TREE, "[, Vivado Commands, General Messages, [USF-XSim-62] 'elaborate' step failed with error(s). Please check the Tcl console output or 'C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.sim/sim_1/behav/xsim/elaborate.log' file for more information.. ]", 4, false); // ah (O, cr)
+selectTree(PAResourceItoN.MsgTreePanel_MESSAGE_VIEW_TREE, "[, Vivado Commands, General Messages, [USF-XSim-62] 'elaborate' step failed with error(s). Please check the Tcl console output or 'C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.sim/sim_1/behav/xsim/elaborate.log' file for more information.. ]", 4, false); // ah (O, cr)
+// Elapsed time: 70 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "testbench_ez.v", 2); // i (h, cr)

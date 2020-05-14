@@ -2,25 +2,35 @@
 # Vivado v2019.2 (64-bit)
 # SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
 # IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
-# Start of session at: Thu May 14 17:21:46 2020
-# Process ID: 10784
-# Current directory: C:/Users/harshith/Documents/GitHub/cache-picorv32
-# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent34664 C:\Users\harshith\Documents\GitHub\cache-picorv32\project_4.xpr
-# Log file: C:/Users/harshith/Documents/GitHub/cache-picorv32/vivado.log
-# Journal file: C:/Users/harshith/Documents/GitHub/cache-picorv32\vivado.jou
+# Start of session at: Thu May 14 14:51:51 2020
+# Process ID: 16444
+# Current directory: C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9408 C:\Users\anubh\OneDrive\Documents\GitHub\cache-picorv32\project_4.xpr
+# Log file: C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/vivado.log
+# Journal file: C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32\vivado.jou
 #-----------------------------------------------------------
 start_gui
-open_project C:/Users/harshith/Documents/GitHub/cache-picorv32/project_4.xpr
+open_project C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.xpr
 update_compile_order -fileset sources_1
-add_files -norecurse C:/Users/harshith/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/my_cache.v
-file mkdir C:/Users/harshith/Documents/GitHub/cache-picorv32/project_4.srcs/sim_1/new
-set_property SOURCE_SET sources_1 [get_filesets sim_1]
-close [ open C:/Users/harshith/Documents/GitHub/cache-picorv32/project_4.srcs/sim_1/new/mycache_tb.v w ]
-add_files -fileset sim_1 C:/Users/harshith/Documents/GitHub/cache-picorv32/project_4.srcs/sim_1/new/mycache_tb.v
 update_compile_order -fileset sim_1
-close [ open C:/Users/harshith/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/mycache_withmem.v w ]
-add_files C:/Users/harshith/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/mycache_withmem.v
 update_compile_order -fileset sources_1
-add_files -norecurse {C:/Users/harshith/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/comparator.v C:/Users/harshith/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/muxnto1.v}
+add_files -norecurse C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/my_cache.v
 update_compile_order -fileset sources_1
-add_files -norecurse {C:/Users/harshith/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/comparator.v C:/Users/harshith/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/muxnto1.v}
+add_files -norecurse {C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/muxnto1.v C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/comparator.v C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/my_cache.v}
+update_compile_order -fileset sources_1
+add_files -norecurse C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/my_cache.v
+add_files -norecurse {C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/muxnto1.v C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/comparator.v C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/my_cache.v C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/mycache_withmem.v}
+update_compile_order -fileset sources_1
+close [ open C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/picorv32.v w ]
+add_files C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/picorv32.v
+update_compile_order -fileset sources_1
+close [ open C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/testbench_ez.v w ]
+add_files C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/testbench_ez.v
+update_compile_order -fileset sources_1
+close [ open C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/testbench_small.v w ]
+add_files C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/testbench_small.v
+update_compile_order -fileset sources_1
+close [ open C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/l1_cache.v w ]
+add_files C:/Users/anubh/OneDrive/Documents/GitHub/cache-picorv32/project_4.srcs/sources_1/new/l1_cache.v
+update_compile_order -fileset sources_1
+launch_simulation
